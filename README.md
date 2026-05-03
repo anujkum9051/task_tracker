@@ -114,7 +114,9 @@ JWT_EXPIRES_IN=7d
 CLIENT_URL=<your-railway-app-url>
 ```
 
-Project Live at : tasktracker-production-a6e9.up.railway.app
+Project Live at : ```txt
+tasktracker-production-a6e9.up.railway.app
+```
 
 Use these commands:
 
